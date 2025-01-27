@@ -1,7 +1,6 @@
 # Salary Estimation App
 
-A **Streamlit web application** for predicting customer salaries using a pre-trained TensorFlow model based on the Churn Modelling Dataset.
-
+A **Streamlit web application** for predicting customer salaries. The model was trained using tensorflow keras layers on churn modelling dataset.  
 ## Features
 - Predicts salary based on customer details.
 - Interactive and user-friendly interface.
